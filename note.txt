@@ -1,3 +1,2 @@
 This is my first Git practice file.
 This is my second line.
-This line will be unstaged.
